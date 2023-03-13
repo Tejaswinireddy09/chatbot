@@ -1,0 +1,269 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "Courses",
+        "What courses do you offer?",
+        "Do you have any courses?",
+        "What all courses do you have?",
+        "Do you provide any courses?"
+      ],
+      "responses": [
+        "We provide s python, java, HTML, CSS, Devops, Machine Learning,Linux, NodeJS, ReactJS, AWS, Data Analysis",
+        "Our training programme provides python, java, HTML, CSS, Devops, Machine Learning, Linux, NodeJS, ReactJS, AWS, Data Analysis"
+      ]
+    },
+    {
+      "tag": "Pyhton course",
+      "patterns": [
+        "Python",
+        "Can I know about Python course?",
+        "DO you have python course?",
+        "Whats is the cost of python course?",
+        "What is the duration of python course?",
+        "How much does it cost for the python course cost?",
+        "Tell me about python course!",
+        " can i know the details of the python course?"
+      ],
+      "responses": [
+        "Cost of the python Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "Java course",
+      "patterns": [
+        "Java",
+        "Can I know about java course?",
+        "DO you have java course?",
+        "Whats is the cost of java course?",
+        "What is the duration of java course?",
+        "How much does it cost for the java course cost?",
+        "Tell me about java course!",
+        "Can i know the details of the java course?"
+      ],
+      "responses": [
+        "Cost of the Java Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "HTML course",
+      "patterns": [
+        "HTML",
+        "Can I know about HTML course?",
+        "DO you have HTML  course?",
+        "Whats is the cost of HTML  course?",
+        "What is the duration of HTML  course?",
+        "How much does it cost for the HTML  course cost?",
+        "Tell me about HTML  course!",
+        "Can i know the details of the jHTML ava course?"
+      ],
+      "responses": [
+        "Cost of the HTML  Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "CSS course",
+      "patterns": [
+        "CSS",
+        "Can I know about CSS course?",
+        "DO you have CSS course?",
+        "Whats is the cost of CSS course?",
+        "What is the duration of CSS course?",
+        "How much does it cost for the CSS course cost?",
+        "Tell me about CSS course!",
+        "Can i know the details of the CSS course?"
+      ],
+      "responses": [
+        "Cost of the CSS Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "ReactJS course",
+      "patterns": [
+        "ReactJS",
+        "Can I know about ReactJS course?",
+        "DO you have ReactJS course?",
+        "Whats is the cost of ReactJS course?",
+        "What is the duration of ReactJS course?",
+        "How much does it cost for the ReactJS course cost?",
+        "Tell me about ReactJS course!",
+        "Can i know the details of the ReactJS course?"
+      ],
+      "responses": [
+        "Cost of the ReactJS Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "Data Analysis course",
+      "patterns": [
+        "Data Analysis",
+        "Can I know about Data Analysis course?",
+        "DO you have Data Analysis course?",
+        "Whats is the cost of Data Analysis course?",
+        "What is the duration of Data Analysis course?",
+        "How much does it cost for the Data Analysis course cost?",
+        "Tell me about Data Analysis course!",
+        "Can i know the details of the Data Analysis course?"
+      ],
+      "responses": [
+        "Cost of the Data Analysis Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "Linux course",
+      "patterns": [
+        "Linux",
+        "Can I know about Linux course?",
+        "DO you have Linux course?",
+        "Whats is the cost of Linux course?",
+        "What is the duration of Linux course?",
+        "How much does it cost for the Linux course cost?",
+        "Tell me about Linux course!",
+        "Can i know the details of the Linux course?"
+      ],
+      "responses": [
+        "Cost of the Linux Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "AWS course",
+      "patterns": [
+        "AWS",
+        "Can I know about AWS course?",
+        "DO you have AWS course?",
+        "Whats is the cost of AWS course?",
+        "What is the duration of AWS course?",
+        "How much does it cost for the ReactAWSJS course cost?",
+        "Tell me about AWS course!",
+        "Can i know the details of the AWS course?"
+      ],
+      "responses": [
+        "Cost of the ReactJS Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "NodeJS course",
+      "patterns": [
+        "NodeJS",
+        "Can I know about NodeJS course?",
+        "DO you have NodeJS course?",
+        "Whats is the cost of NodeJS course?",
+        "What is the duration of NodeJS course?",
+        "How much does it cost for the NodeJS course cost?",
+        "Tell me about NodeJS course!",
+        "Can i know the details of the NodeJS course?"
+      ],
+      "responses": [
+        "Cost of the NodeJS Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "Machine learning course",
+      "patterns": [
+        "Machine learning",
+        "Can I know about Machine learning course?",
+        "DO you have Machine learning course?",
+        "Whats is the cost of Machine learning course?",
+        "What is the duration of Machine learning course?",
+        "How much does it cost for the Machine learning course cost?",
+        "Tell me about Machine learning course!",
+        "Can i know the details of the Machine learning course?"
+      ],
+      "responses": [
+        "Cost of the Machine learning Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "Devops course",
+      "patterns": [
+        "Devops",
+        "Can I know about Devops course?",
+        "DO you have Devops course?",
+        "Whats is the cost of Devops course?",
+        "What is the duration of Devops course?",
+        "How much does it cost for the Devops course cost?",
+        "Tell me about Devops course!",
+        "Can i know the details of the Devops course?"
+      ],
+      "responses": [
+        "Cost of the Devops Course: 45000rs, Duration is & months with projects and test at regular intervals."
+      ]
+    },
+    {
+      "tag": "What's up?",
+      "patterns": [
+        "What's up"
+      ],
+      "responses": [
+        "The sky's up but I'm fine thanks. What about you?"
+      ]
+    },
+    {
+      "tag": "payment",
+      "patterns": [
+        "How do you accept payment",
+        "what payment methods are available?",
+        "How can I pay for the course?"
+      ],
+      "responses": [
+        "Card and online payments are available. you can use this link to got to payment portal   - https://pay.google.com/about/"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison.",
+        "Why do we tell actors to break a leg?- Because every play has a cast",
+        "Crime in multi-storey car parks. That is wrong on so many different levels."
+      ]
+    },
+    {
+      "tag": "Erollment",
+      "patterns": [
+        "I would like to enroll for the course."
+        
+      ],
+      "responses": [
+        " enroll using the link: https://community.canvaslms.com/t5/Canvas-Student-Pathways/How-do-I-generate-an-enrollment-link-for-students-to-opt-in-to-a/ta-p/1460"
+      ]
+    }
+  ]
+}

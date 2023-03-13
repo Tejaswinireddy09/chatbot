@@ -1,0 +1,96 @@
+Hello	Hi
+Hi		Hello
+Greetings!	Hello
+Hello	Greetings!
+Hi, How's it going?	Good
+Hi, How is it going?	Fine
+Hi, How is it going?	Okay
+Hi, How is it going?	Great
+Hi, How is it going?	Could be better.
+How are you doing?	Good.
+How are you?	Very well, thanks.
+How are you doing?	Fine, and you?
+Nice to meet you.	Thank you.
+How do you do?	I'm doing well.
+How do you do?	I'm doing well. How are you?
+Hi, nice to meet you.	Thank you. You too.
+It is a pleasure to meet you.	Thank you. You too.
+Top of the morning to you!	Thank you kindly.
+Top of the morning to you!	And the rest of the day to you.
+What's up?	Not much.
+What's up?	Not too much.
+What's up?	Not much, how about you?
+What's up?	Nothing much.
+What's up?	The sky's up but I'm fine thanks. What about you?
+would you like to learn more about the courses ?
+I'd love to!	what information are you looking for? courses/content/Duration/payment details/free trail   
+No just for fun!	End the conversation!
+courses		python/Machine learning/HTML&CSS/Java/Linux/Node/Networking/React/AWS/Data Analysis/Devops
+Free trail	3 day trail before you buy it .No credit card required /signup now/pricing/Go to menu
+pricing		we offer 2 different plans 1.payment in oneshot 20% discount 2. payment in 2 installments 5% discount/ compare plans/go to menu
+python--->
+python content
+python fee--->	45,000 1.In one shot 36,000  2. 2 installments 42,750
+python duration		7 months                                                       
+machine learning	content/fee/duration/free trail/go to menu
+machine learning content----> Includes basics and advanced topics and 10 real time projects.
+machine learning fee	45,000 1.In one shot 36,000  2. 2 installments 42,750                 
+machine learning duration	7 months
+HTML & CSS	content/fee/duration/free trail/go to menu
+HTML & CSS content
+HTML & CSS duration	7 months
+HTML & CSS fee		45,000 1.In one shot 36,000  2. 2 installments 42,750
+Java		
+	machine learning content----> Includes basics and advanced topics and 10 real time projects.
+	Java duration		7 months
+	Java fee	45,000 1.In one shot 36,000  2. 2 installments 42,750
+Linux		content/fee/duration/free trail/go to menu
+Linux content
+Linux duration
+Linux fee	45,000 1.In one shot 36,000  2. 2 installments 42,750
+Node	content/fee/duration/free trail/go to menu
+Node content
+Node duration
+Node fee	45,000 1.In one shot 36,000  2. 2 installments 42,750
+Networking	content/fee/duration/free trail/go to menu
+Networking content
+Networking duration
+
+Networking fee                           45,000 1.In one shot 36,000  2. 2 installments 42,750
+
+React content
+
+React duration
+
+React fee                               45,000 1.In one shot 36,000  2. 2 installments 42,750
+
+AWS                                         content/fee/duration/free trail/go to menu
+
+AWS content
+
+AWS duration
+
+AWS fee                                   45,000 1.In one shot 36,000  2. 2 installments 42,750
+
+Data Analysis                               content/fee/duration/free trail/go to menu
+
+Data Analysis content
+
+Data Analysis fee
+
+Data Analysis duration                    7 months
+
+Devops  	(Devops fee-45,000 1.In one shot 36,000  2. 2 installments 42,750 
+				Devops duration-7 months)
+
+Devops 	it is a useful learning
+
+Angular JS	https://docs.angularjs.org/tutorial
+
+
+
+ 
+
+
+
+
